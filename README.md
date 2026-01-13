@@ -1,5 +1,7 @@
 # Sistema Integrado de Procesamiento Digital de Imágenes
 
+Herramienta de manipulación, visualización y tratamiento de imágenes semi-profesional.
+
 Proyecto completo que integra todas las funcionalidades de procesamiento digital de imágenes desarrolladas durante el curso.
 
 ## Características
@@ -119,4 +121,3 @@ PDI_Proyecto_Completo/
 - Vista previa de resultados en tiempo real
 - Comparación lado a lado de imágenes
 - Exportación de resultados
-
